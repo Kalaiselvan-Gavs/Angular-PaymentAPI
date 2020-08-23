@@ -5,8 +5,11 @@ Payment Initiation is a angular app & will interact with REST service which will
 The application takes payment details as input from UI and validates the following:
 
 Check the request validation
+
 Check whether the Amount limit exceeded.
+
 Check the White listed certificates validation, If a CN start with `Sandbox-TPP`
+
 Check the input signature validation.
 
 Steps to run the angular application:
