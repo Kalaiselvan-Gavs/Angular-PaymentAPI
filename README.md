@@ -14,13 +14,14 @@ Steps to run the angular application:
 Import the project in Visual Studio Code [Angular Project]
 
 1. Install angular devkit,
-npm install --save-dev @angular-devkit/build-angular
+
+===> npm install --save-dev @angular-devkit/build-angular
 
 2. Run the build
 
 3. Run the application using,
 
- ng serve
+ ===> ng serve
 
 Hit the http://localhost:4200 URL in browser.
 
