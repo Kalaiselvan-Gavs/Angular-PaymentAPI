@@ -18,10 +18,12 @@ npm install --save-dev @angular-devkit/build-angular
 
 2. Run the build
 
-3.Run the application using,
+3. Run the application using,
 
  ng serve
 
 Hit the http://localhost:4200 URL in browser.
+
 Enter all the user inputs.
+
 Click on submit.
