@@ -14,7 +14,7 @@ export class PaymentFormComponent {
 
   model = new Payment('1', '', '', '');
   submitted = false;
-  url = "http://localhost:8080/employees/save";
+  url = "/payment/v1.0.0/initiate-payment";
 
   constructor(private http: HttpClient){
   }
